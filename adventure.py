@@ -107,7 +107,7 @@ while True:
 
                 if answer != "0,1,1,2,3,5":
                     print("Fail. Suddenly you feel somebody tapping on you shoulder. The girl.\n"
-                          "'0, 1, 1, 2, 3, 5' she says")
+                          "'0,1,1,2,3,5' she says")
                     answer = input("Please enter the sequence separated with comma  > ")
 
                     if answer != "0,1,1,2,3,5":
